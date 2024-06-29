@@ -40,7 +40,7 @@
     <link href="https://ershengaaa.cn/writing/hexo/"/>
     <id>https://ershengaaa.cn/writing/hexo/</id>
     <published>2024-06-27T16:08:20.000Z</published>
-    <updated>2024-06-27T16:09:50.876Z</updated>
+    <updated>2024-06-29T15:15:38.887Z</updated>
     
     
       
@@ -53,27 +53,10 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>typora</title>
-    <link href="https://ershengaaa.cn/writing/typora/"/>
-    <id>https://ershengaaa.cn/writing/typora/</id>
-    <published>2024-06-27T15:53:51.000Z</published>
-    <updated>2024-06-27T16:07:18.251Z</updated>
+    <category term="写作" scheme="https://ershengaaa.cn/categories/%E5%86%99%E4%BD%9C/"/>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/hint.css/2.7.0/hint.min.css&quot;&gt;&lt;div</summary>
-        
-      
-    
-    
-    
+    <category term="hexo" scheme="https://ershengaaa.cn/tags/hexo/"/>
     
   </entry>
   
@@ -82,7 +65,7 @@
     <link href="https://ershengaaa.cn/writing/running/"/>
     <id>https://ershengaaa.cn/writing/running/</id>
     <published>2024-06-27T15:53:44.000Z</published>
-    <updated>2024-06-29T04:42:56.194Z</updated>
+    <updated>2024-06-29T15:42:53.167Z</updated>
     
     
       
@@ -107,7 +90,7 @@
     <link href="https://ershengaaa.cn/writing/markdown/"/>
     <id>https://ershengaaa.cn/writing/markdown/</id>
     <published>2024-06-27T15:53:36.000Z</published>
-    <updated>2024-06-27T16:07:05.587Z</updated>
+    <updated>2024-06-29T15:17:07.770Z</updated>
     
     
       
@@ -120,6 +103,10 @@
     
     
     
+    <category term="写作" scheme="https://ershengaaa.cn/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    
+    <category term="markdown" scheme="https://ershengaaa.cn/tags/markdown/"/>
     
   </entry>
   
@@ -128,7 +115,7 @@
     <link href="https://ershengaaa.cn/writing/linux/"/>
     <id>https://ershengaaa.cn/writing/linux/</id>
     <published>2024-06-27T15:53:29.000Z</published>
-    <updated>2024-06-27T15:58:48.244Z</updated>
+    <updated>2024-06-29T15:47:05.132Z</updated>
     
     
       
@@ -141,6 +128,10 @@
     
     
     
+    <category term="写作" scheme="https://ershengaaa.cn/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    
+    <category term="linux" scheme="https://ershengaaa.cn/tags/linux/"/>
     
   </entry>
   
@@ -149,7 +140,7 @@
     <link href="https://ershengaaa.cn/writing/html/"/>
     <id>https://ershengaaa.cn/writing/html/</id>
     <published>2024-06-27T15:53:22.000Z</published>
-    <updated>2024-06-27T16:07:11.114Z</updated>
+    <updated>2024-06-29T15:32:59.501Z</updated>
     
     
       
@@ -162,6 +153,10 @@
     
     
     
+    <category term="写作" scheme="https://ershengaaa.cn/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    
+    <category term="html" scheme="https://ershengaaa.cn/tags/html/"/>
     
   </entry>
   
@@ -170,7 +165,7 @@
     <link href="https://ershengaaa.cn/writing/guitar/"/>
     <id>https://ershengaaa.cn/writing/guitar/</id>
     <published>2024-06-27T15:53:15.000Z</published>
-    <updated>2024-06-29T04:43:06.955Z</updated>
+    <updated>2024-06-29T15:20:00.851Z</updated>
     
     
       
@@ -195,7 +190,7 @@
     <link href="https://ershengaaa.cn/fragments/2024/"/>
     <id>https://ershengaaa.cn/fragments/2024/</id>
     <published>2024-06-27T15:38:54.000Z</published>
-    <updated>2024-06-27T15:59:15.497Z</updated>
+    <updated>2024-06-29T14:09:37.657Z</updated>
     
     
       
