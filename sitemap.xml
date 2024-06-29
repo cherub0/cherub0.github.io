@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ershengaaa.cn/updating/index.html</loc>
+    <loc>https://ershengaaa.cn/message/index.html</loc>
     
     <lastmod>2024-06-29</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://ershengaaa.cn/message/index.html</loc>
+    <loc>https://ershengaaa.cn/updating/index.html</loc>
     
     <lastmod>2024-06-29</lastmod>
     
@@ -207,13 +207,6 @@
   </url>
   
   <url>
-    <loc>https://ershengaaa.cn/tags/%E8%B7%91%E6%AD%A5/</loc>
-    <lastmod>2024-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ershengaaa.cn/tags/%E5%B0%8F%E8%AF%B4/</loc>
     <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -222,6 +215,13 @@
   
   <url>
     <loc>https://ershengaaa.cn/tags/%E5%BC%82%E4%B8%96%E7%95%8C/</loc>
+    <lastmod>2024-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ershengaaa.cn/tags/%E8%B7%91%E6%AD%A5/</loc>
     <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

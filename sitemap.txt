@@ -1,5 +1,5 @@
-https://ershengaaa.cn/updating/index.html
 https://ershengaaa.cn/message/index.html
+https://ershengaaa.cn/updating/index.html
 https://ershengaaa.cn/writing/guitar/
 https://ershengaaa.cn/writing/running/
 https://ershengaaa.cn/about/index.html
@@ -21,8 +21,8 @@ https://ershengaaa.cn/tags/index.html
 https://ershengaaa.cn/list/index.html
 https://ershengaaa.cn/
 https://ershengaaa.cn/tags/%E5%90%89%E4%BB%96/
-https://ershengaaa.cn/tags/%E8%B7%91%E6%AD%A5/
 https://ershengaaa.cn/tags/%E5%B0%8F%E8%AF%B4/
 https://ershengaaa.cn/tags/%E5%BC%82%E4%B8%96%E7%95%8C/
+https://ershengaaa.cn/tags/%E8%B7%91%E6%AD%A5/
 https://ershengaaa.cn/categories/%E7%94%9F%E6%B4%BB/
 https://ershengaaa.cn/categories/%E5%A5%87%E6%80%9D%E5%A6%99%E6%83%B3/
