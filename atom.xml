@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Cherub</title>
-  <icon>http://example.com/icon.png</icon>
+  <icon>https://ershengaaa.cn/icon.png</icon>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://ershengaaa.cn/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://ershengaaa.cn/"/>
   <updated>2024-06-27T16:09:50.876Z</updated>
-  <id>http://example.com/</id>
+  <id>https://ershengaaa.cn/</id>
   
   <author>
     <name>cherub</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hexo博客</title>
-    <link href="http://example.com/writing/hexo/"/>
-    <id>http://example.com/writing/hexo/</id>
+    <link href="https://ershengaaa.cn/writing/hexo/"/>
+    <id>https://ershengaaa.cn/writing/hexo/</id>
     <published>2024-06-27T16:08:20.000Z</published>
     <updated>2024-06-27T16:09:50.876Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>typora</title>
-    <link href="http://example.com/writing/typora/"/>
-    <id>http://example.com/writing/typora/</id>
+    <link href="https://ershengaaa.cn/writing/typora/"/>
+    <id>https://ershengaaa.cn/writing/typora/</id>
     <published>2024-06-27T15:53:51.000Z</published>
     <updated>2024-06-27T16:07:18.251Z</updated>
     
@@ -60,8 +60,8 @@
   
   <entry>
     <title>我与跑步</title>
-    <link href="http://example.com/writing/running/"/>
-    <id>http://example.com/writing/running/</id>
+    <link href="https://ershengaaa.cn/writing/running/"/>
+    <id>https://ershengaaa.cn/writing/running/</id>
     <published>2024-06-27T15:53:44.000Z</published>
     <updated>2024-06-27T16:15:58.894Z</updated>
     
@@ -81,8 +81,8 @@
   
   <entry>
     <title>markdown</title>
-    <link href="http://example.com/writing/markdown/"/>
-    <id>http://example.com/writing/markdown/</id>
+    <link href="https://ershengaaa.cn/writing/markdown/"/>
+    <id>https://ershengaaa.cn/writing/markdown/</id>
     <published>2024-06-27T15:53:36.000Z</published>
     <updated>2024-06-27T16:07:05.587Z</updated>
     
@@ -102,8 +102,8 @@
   
   <entry>
     <title>linux小技巧</title>
-    <link href="http://example.com/writing/linux/"/>
-    <id>http://example.com/writing/linux/</id>
+    <link href="https://ershengaaa.cn/writing/linux/"/>
+    <id>https://ershengaaa.cn/writing/linux/</id>
     <published>2024-06-27T15:53:29.000Z</published>
     <updated>2024-06-27T15:58:48.244Z</updated>
     
@@ -123,8 +123,8 @@
   
   <entry>
     <title>html</title>
-    <link href="http://example.com/writing/html/"/>
-    <id>http://example.com/writing/html/</id>
+    <link href="https://ershengaaa.cn/writing/html/"/>
+    <id>https://ershengaaa.cn/writing/html/</id>
     <published>2024-06-27T15:53:22.000Z</published>
     <updated>2024-06-27T16:07:11.114Z</updated>
     
@@ -144,8 +144,8 @@
   
   <entry>
     <title>我与吉他</title>
-    <link href="http://example.com/writing/guitar/"/>
-    <id>http://example.com/writing/guitar/</id>
+    <link href="https://ershengaaa.cn/writing/guitar/"/>
+    <id>https://ershengaaa.cn/writing/guitar/</id>
     <published>2024-06-27T15:53:15.000Z</published>
     <updated>2024-06-27T16:16:08.141Z</updated>
     
@@ -165,8 +165,8 @@
   
   <entry>
     <title>碎片</title>
-    <link href="http://example.com/fragments/2024/"/>
-    <id>http://example.com/fragments/2024/</id>
+    <link href="https://ershengaaa.cn/fragments/2024/"/>
+    <id>https://ershengaaa.cn/fragments/2024/</id>
     <published>2024-06-27T15:38:54.000Z</published>
     <updated>2024-06-27T15:59:15.497Z</updated>
     
@@ -186,8 +186,8 @@
   
   <entry>
     <title>异兽迷城</title>
-    <link href="http://example.com/2024/%E5%BC%82%E5%85%BD%E8%BF%B7%E5%9F%8E/"/>
-    <id>http://example.com/2024/%E5%BC%82%E5%85%BD%E8%BF%B7%E5%9F%8E/</id>
+    <link href="https://ershengaaa.cn/2024/%E5%BC%82%E5%85%BD%E8%BF%B7%E5%9F%8E/"/>
+    <id>https://ershengaaa.cn/2024/%E5%BC%82%E5%85%BD%E8%BF%B7%E5%9F%8E/</id>
     <published>2024-06-24T14:30:10.000Z</published>
     <updated>2024-06-28T16:00:47.709Z</updated>
     
@@ -202,12 +202,12 @@
     
     
     
-    <category term="奇思妙想" scheme="http://example.com/categories/%E5%A5%87%E6%80%9D%E5%A6%99%E6%83%B3/"/>
+    <category term="奇思妙想" scheme="https://ershengaaa.cn/categories/%E5%A5%87%E6%80%9D%E5%A6%99%E6%83%B3/"/>
     
     
-    <category term="小说" scheme="http://example.com/tags/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://ershengaaa.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
     
-    <category term="异世界" scheme="http://example.com/tags/%E5%BC%82%E4%B8%96%E7%95%8C/"/>
+    <category term="异世界" scheme="https://ershengaaa.cn/tags/%E5%BC%82%E4%B8%96%E7%95%8C/"/>
     
   </entry>
   
