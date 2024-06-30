@@ -207,7 +207,7 @@
   </url>
   
   <url>
-    <loc>https://ershengaaa.cn/tags/linux/</loc>
+    <loc>https://ershengaaa.cn/tags/html/</loc>
     <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -221,14 +221,7 @@
   </url>
   
   <url>
-    <loc>https://ershengaaa.cn/tags/html/</loc>
-    <lastmod>2024-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ershengaaa.cn/tags/%E8%B7%91%E6%AD%A5/</loc>
+    <loc>https://ershengaaa.cn/tags/linux/</loc>
     <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -242,7 +235,7 @@
   </url>
   
   <url>
-    <loc>https://ershengaaa.cn/tags/%E7%AE%80%E5%8E%86/</loc>
+    <loc>https://ershengaaa.cn/tags/%E8%B7%91%E6%AD%A5/</loc>
     <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -257,6 +250,13 @@
   
   <url>
     <loc>https://ershengaaa.cn/tags/%E5%BC%82%E4%B8%96%E7%95%8C/</loc>
+    <lastmod>2024-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ershengaaa.cn/tags/%E7%AE%80%E5%8E%86/</loc>
     <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -279,14 +279,14 @@
   </url>
   
   <url>
-    <loc>https://ershengaaa.cn/categories/%E5%B7%A5%E4%BD%9C/</loc>
+    <loc>https://ershengaaa.cn/categories/%E5%A5%87%E6%80%9D%E5%A6%99%E6%83%B3/</loc>
     <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ershengaaa.cn/categories/%E5%A5%87%E6%80%9D%E5%A6%99%E6%83%B3/</loc>
+    <loc>https://ershengaaa.cn/categories/%E5%B7%A5%E4%BD%9C/</loc>
     <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
