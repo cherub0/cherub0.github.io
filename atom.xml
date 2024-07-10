@@ -43,10 +43,10 @@
   
   <entry>
     <title>诗词歌赋</title>
-    <link href="https://ershengaaa.cn/null/%E8%AF%97%E8%AF%8D%E6%AD%8C%E8%B5%8B/"/>
-    <id>https://ershengaaa.cn/null/%E8%AF%97%E8%AF%8D%E6%AD%8C%E8%B5%8B/</id>
+    <link href="https://ershengaaa.cn/writing/%E8%AF%97%E8%AF%8D%E6%AD%8C%E8%B5%8B/"/>
+    <id>https://ershengaaa.cn/writing/%E8%AF%97%E8%AF%8D%E6%AD%8C%E8%B5%8B/</id>
     <published>2024-06-30T11:14:57.000Z</published>
-    <updated>2024-06-30T11:14:57.660Z</updated>
+    <updated>2024-07-10T22:52:39.744Z</updated>
     
     
       
@@ -59,6 +59,10 @@
     
     
     
+    <category term="文学" scheme="https://ershengaaa.cn/categories/%E6%96%87%E5%AD%A6/"/>
+    
+    
+    <category term="诗词" scheme="https://ershengaaa.cn/tags/%E8%AF%97%E8%AF%8D/"/>
     
   </entry>
   
@@ -111,7 +115,7 @@
     <link href="https://ershengaaa.cn/writing/running/"/>
     <id>https://ershengaaa.cn/writing/running/</id>
     <published>2024-06-27T15:53:44.000Z</published>
-    <updated>2024-06-30T05:14:58.397Z</updated>
+    <updated>2024-07-10T22:57:50.055Z</updated>
     
     
       
