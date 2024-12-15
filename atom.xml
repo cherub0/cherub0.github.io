@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cherub</title>
+  <icon>https://cherub0.github.io/icon.png</icon>
+  
+  <link href="https://cherub0.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://cherub0.github.io/"/>
+  <updated>2024-12-15T11:34:15.952Z</updated>
+  <id>https://cherub0.github.io/</id>
+  
+  <author>
+    <name>cherub</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CMAKE</title>
+    <link href="https://cherub0.github.io/2024/CMAKE/"/>
+    <id>https://cherub0.github.io/2024/CMAKE/</id>
+    <published>2024-12-15T11:10:02.000Z</published>
+    <updated>2024-12-15T11:34:15.952Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h5</summary>
+        
+      
+    
+    
+    
+    <category term="程序人生" scheme="https://cherub0.github.io/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+    
+    
+    <category term="CMAKE" scheme="https://cherub0.github.io/tags/CMAKE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>成语摘录</title>
+    <link href="https://cherub0.github.io/writing/%E6%88%90%E8%AF%AD/"/>
+    <id>https://cherub0.github.io/writing/%E6%88%90%E8%AF%AD/</id>
+    <published>2024-12-15T11:07:57.000Z</published>
+    <updated>2024-12-15T11:36:27.385Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h5</summary>
+        
+      
+    
+    
+    
+    <category term="文学" scheme="https://cherub0.github.io/categories/%E6%96%87%E5%AD%A6/"/>
+    
+    
+    <category term="成语" scheme="https://cherub0.github.io/tags/%E6%88%90%E8%AF%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>诗词歌赋</title>
+    <link href="https://cherub0.github.io/writing/%E8%AF%97%E8%AF%8D%E6%AD%8C%E8%B5%8B/"/>
+    <id>https://cherub0.github.io/writing/%E8%AF%97%E8%AF%8D%E6%AD%8C%E8%B5%8B/</id>
+    <published>2024-12-15T11:04:52.000Z</published>
+    <updated>2024-12-15T11:37:30.430Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h5</summary>
+        
+      
+    
+    
+    
+    <category term="文学" scheme="https://cherub0.github.io/categories/%E6%96%87%E5%AD%A6/"/>
+    
+    
+    <category term="诗词" scheme="https://cherub0.github.io/tags/%E8%AF%97%E8%AF%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在线简历</title>
+    <link href="https://cherub0.github.io/2024/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/"/>
+    <id>https://cherub0.github.io/2024/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</id>
+    <published>2024-12-15T10:33:18.000Z</published>
+    <updated>2024-12-15T13:12:34.917Z</updated>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    <category term="工作" scheme="https://cherub0.github.io/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+    <category term="简历" scheme="https://cherub0.github.io/tags/%E7%AE%80%E5%8E%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo博客</title>
+    <link href="https://cherub0.github.io/writing/hexo/"/>
+    <id>https://cherub0.github.io/writing/hexo/</id>
+    <published>2024-12-15T10:19:43.000Z</published>
+    <updated>2024-12-15T11:34:37.043Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h5</summary>
+        
+      
+    
+    
+    
+    <category term="写作" scheme="https://cherub0.github.io/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    
+    <category term="hexo" scheme="https://cherub0.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我与跑步</title>
+    <link href="https://cherub0.github.io/writing/running/"/>
+    <id>https://cherub0.github.io/writing/running/</id>
+    <published>2024-12-15T10:15:05.000Z</published>
+    <updated>2024-12-15T11:37:03.790Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h5</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="https://cherub0.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="跑步" scheme="https://cherub0.github.io/tags/%E8%B7%91%E6%AD%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown</title>
+    <link href="https://cherub0.github.io/writing/markdown/"/>
+    <id>https://cherub0.github.io/writing/markdown/</id>
+    <published>2024-12-15T10:10:14.000Z</published>
+    <updated>2024-12-15T11:34:53.957Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h5</summary>
+        
+      
+    
+    
+    
+    <category term="写作" scheme="https://cherub0.github.io/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    
+    <category term="markdown" scheme="https://cherub0.github.io/tags/markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux小技巧</title>
+    <link href="https://cherub0.github.io/writing/linux/"/>
+    <id>https://cherub0.github.io/writing/linux/</id>
+    <published>2024-12-15T10:05:29.000Z</published>
+    <updated>2024-12-15T11:34:48.137Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;div</summary>
+        
+      
+    
+    
+    
+    <category term="程序人生" scheme="https://cherub0.github.io/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+    
+    
+    <category term="linux" scheme="https://cherub0.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>html</title>
+    <link href="https://cherub0.github.io/writing/html/"/>
+    <id>https://cherub0.github.io/writing/html/</id>
+    <published>2024-12-15T09:57:22.000Z</published>
+    <updated>2024-12-15T11:34:42.731Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;div</summary>
+        
+      
+    
+    
+    
+    <category term="写作" scheme="https://cherub0.github.io/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    
+    <category term="html" scheme="https://cherub0.github.io/tags/html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我与吉他</title>
+    <link href="https://cherub0.github.io/writing/guitar/"/>
+    <id>https://cherub0.github.io/writing/guitar/</id>
+    <published>2024-12-15T09:24:25.000Z</published>
+    <updated>2024-12-15T11:36:43.328Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h6</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="https://cherub0.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="吉他" scheme="https://cherub0.github.io/tags/%E5%90%89%E4%BB%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>异兽迷城</title>
+    <link href="https://cherub0.github.io/2024/%E5%BC%82%E4%B8%96%E7%95%8C/"/>
+    <id>https://cherub0.github.io/2024/%E5%BC%82%E4%B8%96%E7%95%8C/</id>
+    <published>2024-12-15T08:44:18.000Z</published>
+    <updated>2024-12-15T11:36:05.855Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;div</summary>
+        
+      
+    
+    
+    
+    <category term="奇思妙想" scheme="https://cherub0.github.io/categories/%E5%A5%87%E6%80%9D%E5%A6%99%E6%83%B3/"/>
+    
+    
+    <category term="小说" scheme="https://cherub0.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="异世界" scheme="https://cherub0.github.io/tags/%E5%BC%82%E4%B8%96%E7%95%8C/"/>
+    
+  </entry>
+  
+</feed>
