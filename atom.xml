@@ -6,7 +6,7 @@
   <link href="https://cherub0.github.io/atom.xml" rel="self"/>
   
   <link href="https://cherub0.github.io/"/>
-  <updated>2024-12-15T11:34:15.952Z</updated>
+  <updated>2025-02-07T10:44:10.365Z</updated>
   <id>https://cherub0.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在路上</title>
+    <link href="https://cherub0.github.io/writing/%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
+    <id>https://cherub0.github.io/writing/%E5%9C%A8%E8%B7%AF%E4%B8%8A/</id>
+    <published>2025-02-07T10:29:30.000Z</published>
+    <updated>2025-02-07T10:44:10.365Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h4</summary>
+        
+      
+    
+    
+    
+    <category term="旅行" scheme="https://cherub0.github.io/categories/%E6%97%85%E8%A1%8C/"/>
+    
+    
+    <category term="旅行" scheme="https://cherub0.github.io/tags/%E6%97%85%E8%A1%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>CMAKE</title>
