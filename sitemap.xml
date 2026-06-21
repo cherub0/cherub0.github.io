@@ -259,14 +259,14 @@
   </url>
   
   <url>
-    <loc>https://cherub0.github.io/tags/html/</loc>
+    <loc>https://cherub0.github.io/tags/linux/</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://cherub0.github.io/tags/linux/</loc>
+    <loc>https://cherub0.github.io/tags/html/</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -301,7 +301,7 @@
   </url>
   
   <url>
-    <loc>https://cherub0.github.io/tags/%E7%AE%80%E5%8E%86/</loc>
+    <loc>https://cherub0.github.io/tags/%E6%88%90%E8%AF%AD/</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -322,7 +322,7 @@
   </url>
   
   <url>
-    <loc>https://cherub0.github.io/tags/%E6%88%90%E8%AF%AD/</loc>
+    <loc>https://cherub0.github.io/tags/%E7%AE%80%E5%8E%86/</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -380,7 +380,7 @@
   </url>
   
   <url>
-    <loc>https://cherub0.github.io/categories/%E5%B7%A5%E4%BD%9C/</loc>
+    <loc>https://cherub0.github.io/categories/%E6%96%87%E5%AD%A6/</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -394,7 +394,7 @@
   </url>
   
   <url>
-    <loc>https://cherub0.github.io/categories/%E6%96%87%E5%AD%A6/</loc>
+    <loc>https://cherub0.github.io/categories/%E5%B7%A5%E4%BD%9C/</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
